@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://zaesarius.github.io/Skydive-leaflet/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1kFUQwslyhBum12InL3td5B3k3tytl2lH0y1AaNOqxkw/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/10eMJLXLywy1flLAAmFi-cIAB6VT2Qnh58T0orkDKyZ4/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
