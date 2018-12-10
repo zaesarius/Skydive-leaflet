@@ -9,7 +9,7 @@ var map = L.map('map', {
     layers: [street]
 });
 
-L.control.layers().addTo(map);
+L.control.layers(street).addTo(map);
 
 
 $(window).on('load', function() {
